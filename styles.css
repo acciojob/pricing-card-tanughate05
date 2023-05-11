@@ -1,6 +1,12 @@
 /*  your css code here. If applicable */
 button{
 	padding:0;
+	color:white;
 	background-color:#ef574c;
-	border-radius:10px;
+	border: 1px solid #ef574c;
+	border-radius:15px;
+
+}
+.container{
+	background-color:lightgray;
 }
