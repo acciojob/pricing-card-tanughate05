@@ -1,4 +1,6 @@
 /*  your css code here. If applicable */
 button{
+	padding:0;
 	background-color:#ef574c;
+	border-radius:10px;
 }
